@@ -9,6 +9,7 @@ class LearngitApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("这是测试！");
+        System.out.println("2");
     }
 
 }
